@@ -1,6 +1,8 @@
 # Resource: The Best Company YouTubes
 
-
+> Canonical url: https://dx.tips/youtubes
+> 
+> **Fixes/Contributions welcome!!**
 
 The DevRel metagame is increasingly turning a [hyper-global and hyper-local](https://leerob.io/blog/dx) barbell strategy - either online and massively scalable, or in-person and high bandwidth, relationship-based. This makes sense - anything in-between is just not very good at either goal of content or community.
 
