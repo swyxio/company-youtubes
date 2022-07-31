@@ -59,6 +59,8 @@ Who else?
 
 ### Misc YouTubes to explore
 
+- [Honeypot](https://www.youtube.com/channel/UCsUalyRg43M8D60mtHe6YcA) Highly produced documentaries on Kubernetes, Vue.js, GraphQL, and others
+  - Same producer left for [OfferZen](https://www.youtube.com/c/OfferZenOrigins) to do Laravel and Svelt
 - [Altinity](https://www.youtube.com/channel/UCE3Y2lDKl_ZfjaCrh62onYA/featured)
 - [Clickhouse](https://www.youtube.com/c/ClickHouseDB)
 - [Prismic](https://www.youtube.com/watch?v=s-pCNqqUbfI&feature=youtu.be) (doing ok, just surprisingly low compared to production quality)
