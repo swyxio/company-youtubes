@@ -4,24 +4,6 @@
 > 
 > **Fixes/Contributions welcome!!**
 
-The DevRel metagame is increasingly turning a [hyper-global and hyper-local](https://leerob.io/blog/dx) barbell strategy - either online and massively scalable, or in-person and high bandwidth, relationship-based. This makes sense - anything in-between is just not very good at either goal of content or community.
-
-Given the choice between being 80-20 Very Good Online and Very Good IRL, or 20-80 the other way, it is almost self evident that the bulk of the investment should go to an incredible online presence (beyond the obvious scalability, being Very Good Online does translate to Good IRL, but not vice versa).
-
-Blogging is by far the most scalable form of Very Good Online, but the rise in rich media consumption cannot be ignored, so that is what we are focusing on here.
-
-## Defining the Company YouTube problem
-
-- Of all the major video, audio, and live conferencing platforms, YouTube is far and away the best platform for its **install base** (2.1b MAU) and **social proof** (subscribers, viewcount, likes, comments, etc). 
- This is why devtools companies are increasingly investing in YouTube, and therefore asking for model examples from which to take inspiration. 
-- However, the best/biggest YouTubes are usually individual creators, from [CodingTrain](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) to [TechWorld with Nana](https://www.youtube.com/c/techworldwithnana), and the options for sponsored content are often very limited. 
-- Viewer loyalty is very personality centric and these channels often go for a diversity of topics (doing the "Intro to X" or "X Full Course" or "How to get a Job with X" video for as many technologies as possible is the best way to pick up subscribers), both of which are ultimately unsustainable foundations for building a company asset.
-- Misconception: Backend tools are less visual than frontend tools, so it feels harder to do well on video. However there are quite a few counterexamples - tutorials on [Kubernetes](https://www.youtube.com/watch?v=X48VuDVv0do), [APIs](https://www.youtube.com/watch?v=kG-fLp9BTRo&t=266s) and [Apache Kafka](https://www.youtube.com/watch?v=PzPXRmVHMxI) that get millions of views.
-
-Therefore, a separate *Company YouTube* playbook must be developed.
-
-I've been keeping a list for the past year, and figured I should publish this as a standalone resource for people. This is a "live resource", so it will be continually updated and you can bookmark this as a reference. Many thanks to Chris Sean for helping with the research on this.
-
 ## Generalized YouTube notes
 
 - Titles/Video formats that work
