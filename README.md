@@ -122,6 +122,8 @@ Who else?
   - straight to the point
   - intro helps pull viewer in by telling them why they need to watch the video
 
+## Youtube playbooks from different companies
+- [Atlist](https://www.atlistmaps.com/blog/youtube-saas-marketing) - Bootstrapping youtube marketing via uploading on existing channels, and practical tips for getting started
 
 Todo:
 
